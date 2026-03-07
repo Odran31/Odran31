@@ -1,53 +1,49 @@
-# 👋 Salut, je suis [Ton Nom]
+# 👋 Hi, I'm [Your Name]
 
-Développeur·se passionné·e par la création de solutions innovantes et performantes.  
-Je me spécialise dans **[Python, JavaScript, React, Node.js]** et je m’intéresse particulièrement à **[développement web / data science / IA]**.
+A passionate developer focused on building innovative and high-performance solutions.  
+I specialize in **[Python, JavaScript, React, Node.js]** and have a strong interest in **[web development / data science / AI]**.
 
 ---
 
-## 💻 Compétences
+## 💻 Skills
 
-**Langages & Frameworks :**  
+**Languages & Frameworks:**  
 `Python` `JavaScript` `TypeScript` `React` `Node.js` `Django` `Flask`  
 
-**Outils & Technologies :**  
+**Tools & Technologies:**  
 `Git` `Docker` `CI/CD` `AWS` `PostgreSQL` `MongoDB`  
 
-**Méthodologies :**  
+**Methodologies:**  
 Agile, Test-Driven Development (TDD), Clean Code, DevOps
 
 ---
 
-## 🔭 Projets récents
+## 🔭 Recent Projects
 
-### [Nom du projet 1](Lien vers repo)
-- Description courte du projet et des technologies utilisées.  
-- Exemple : Application web pour gérer les tâches en équipe, développée avec React et Node.js.
+### [Project Name 1](Link to repo)
+- Short description of the project and technologies used.  
+- Example: A web app for team task management, built with React and Node.js.
 
-### [Nom du projet 2](Lien vers repo)
-- Description courte du projet et des technologies utilisées.  
-- Exemple : API REST pour une application mobile, sécurisée avec JWT et déployée sur AWS.
+### [Project Name 2](Link to repo)
+- Short description of the project and technologies used.  
+- Example: REST API for a mobile app, secured with JWT and deployed on AWS.
 
 ---
 
-## 🌱 Actuellement en apprentissage
-- **[Technologie ou compétence]**  
-- **[Projet personnel ou cours en cours]**
+## 🌱 Currently Learning
+- **[Technology or skill]**  
+- **[Personal project or course in progress]**
 
 ---
 
 ## 📫 Contact
 
-- Email : [ton.email@exemple.com](mailto:ton.email@exemple.com)  
-- LinkedIn : [linkedin.com/in/tonprofil](https://linkedin.com/in/tonprofil)  
-- Portfolio : [tonsiteweb.com](https://tonsiteweb.com)  
+- Email: [your.email@example.com](mailto:your.email@example.com)  
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- Portfolio: [yourwebsite.com](https://yourwebsite.com)  
 
 ---
 
 ## ⚡ Fun Fact
-- Passionné·e de [exemple : intelligence artificielle, open source, jeux vidéo].  
-- Toujours à la recherche de nouvelles opportunités pour apprendre et contribuer à des projets ambitieux.
-<!---
-Odran31/Odran31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Passionate about [example: artificial intelligence, open source, gaming].  
+- Always seeking new opportunities to learn and contribute to ambitious projects.
