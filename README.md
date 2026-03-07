@@ -23,7 +23,7 @@ Agile / Scrum, Waterfall, Risk Management & Compliance
 DOCUVAULT is an interactive PDF ChatBot designed to read, analyze, and answer questions directly from PDF documents. It combines advanced Natural Language Processing (NLP) techniques with Large Language Models (LLMs) and vector embeddings to provide accurate and contextually relevant answers based on document content.
 
 ### [Project-LLM-Multilingual-Benchmark (English vs. French)](https://github.com/Odran31/Project-LLM-Multilingual-Benchmark-Llama-3.3-Performance-Analysis-English-French-)
-This repository contains an automated benchmarking suite designed to evaluate and compare the performance of the Large Language Model Llama 3.3 via the Groq API—across English and French tasks.
+This repository contains an automated benchmarking suite designed to evaluate and compare the performance of the Large Language Model Llama 3.3 via the Groq API-across English and French tasks.
 
 ---
 
