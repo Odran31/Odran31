@@ -1,20 +1,19 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm odran REIS
 
-A passionate developer focused on building innovative and high-performance solutions.  
-I specialize in **[Python, JavaScript, React, Node.js]** and have a strong interest in **[web development / data science / AI]**.
+Early-career **AI Engineer** with strong foundations in **machine learning, deep learning, and data engineering**, complemented by hands-on experience in **industrial automation and large-scale project delivery**. Proven ability to translate real-world problems into **data-driven, production-oriented ML solutions**. Experienced working in regulated, high-stakes environments and cross-functional teams
 
 ---
 
 ## 💻 Skills
 
 **Languages & Frameworks:**  
-`Python` `JavaScript` `TypeScript` `React` `Node.js` `Django` `Flask`  
+`Python` `NumPy` `Pandas` `Matplotlib` `PyTorch` `Keras` `Scikit-learn`  
 
 **Tools & Technologies:**  
-`Git` `Docker` `CI/CD` `AWS` `PostgreSQL` `MongoDB`  
+`Git` `Ollama` `Groq` `HuggingFace` `Gradio`  
 
 **Methodologies:**  
-Agile, Test-Driven Development (TDD), Clean Code, DevOps
+Agile / Scrum, Waterfall, Risk Management & Compliance
 
 ---
 
@@ -30,20 +29,14 @@ Agile, Test-Driven Development (TDD), Clean Code, DevOps
 
 ---
 
-## 🌱 Currently Learning
-- **[Technology or skill]**  
-- **[Personal project or course in progress]**
-
----
-
 ## 📫 Contact
 
-- Email: [your.email@example.com](mailto:your.email@example.com)  
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)  
+- Email: [odran.reis@gmail.com](mailto:odran.reis@gmail.com)  
+- LinkedIn: [linkedin.com/in/odran-reis-a9295a222/](https://www.linkedin.com/in/odran-reis-a9295a222/)  
+- Portfolio: [github.com/Odran31?tab=repositories](https://github.com/Odran31?tab=repositories) 
 
 ---
 
 ## ⚡ Fun Fact
 - Passionate about [example: artificial intelligence, open source, gaming].  
-- Always seeking new opportunities to learn and contribute to ambitious projects.
+- I have professional experience as a project manager.
