@@ -19,6 +19,9 @@ Agile / Scrum, Waterfall, Risk Management & Compliance
 
 ## 🔭 Recent Projects
 
+### [Multi-Open_Source_Model-benchmark](https://github.com/Odran31/Multi-Open_Source_Model-benchmark)
+This automated framework benchmarks 4 open-source LLMs (Llama, Qwen, Gemma, Mistral) for R&D Project Management. Using an LLM-as-a-Judge architecture, it scores responses on actionability and hallucination risk to see if open-source models are ready for high-stakes environments.
+
 ### [Project_DOCUVAULT_chatbot_PDF](https://github.com/Odran31/DOCUVAULT_Project-ChatBot_PDF-avec-Mistral-7B)
 DOCUVAULT is an interactive PDF ChatBot designed to read, analyze, and answer questions directly from PDF documents. It combines advanced Natural Language Processing (NLP) techniques with Large Language Models (LLMs) and vector embeddings to provide accurate and contextually relevant answers based on document content.
 
