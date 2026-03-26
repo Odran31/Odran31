@@ -7,7 +7,7 @@ Early-career **AI Engineer** with strong foundations in **machine learning, deep
 ## 💻 Skills
 
 **Languages & Frameworks:**  
-`Python` `NumPy` `Pandas` `Matplotlib` `PyTorch` `Keras` `Scikit-learn`  
+`Python` `NumPy` `Pandas` `Matplotlib` `PyTorch` `Keras` `Scikit-learn` `Agentic AI`  
 
 **Tools & Technologies:**  
 `Git` `Ollama` `Groq` `HuggingFace` `Gradio`  
@@ -18,6 +18,9 @@ Agile / Scrum, Waterfall, Risk Management & Compliance
 ---
 
 ## 🔭 Recent Projects
+
+### [Scientific Paper Research Agent-ArXiv AI Pipeline](https://github.com/Odran31/Reshearch_paper_multi-agents)
+Developed an intelligent multi-agent system to autonomously search, select, summarize, and refine scientific articles from ArXiv. The system leverages LLaMA 3.1 for article selection and features a structured summary pipeline with an AI-driven critique loop. Integrated with a web interface, the tool allows researchers and developers to quickly gain in-depth insights on any scientific topic via a clean, code-free UI.
 
 ### [Research-and-Developement_Project_Management_Benchmark](https://github.com/Odran31/Research-and-Developement_Project_Management_Benchmark)
 This automated framework benchmarks 4 open-source LLMs (Llama, Qwen, Gemma, Mistral) for R&D Project Management. Using an LLM-as-a-Judge architecture, it scores responses on actionability and hallucination risk to see if open-source models are ready for high-stakes environments.
@@ -38,6 +41,5 @@ This repository contains an automated benchmarking suite designed to evaluate an
 
 ---
 
-## ⚡ Fun Fact
-- Passionate about [example: artificial intelligence, open source, gaming].  
+## ⚡ Fun Fact 
 - I have professional experience as a project manager.
